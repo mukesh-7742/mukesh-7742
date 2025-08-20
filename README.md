@@ -11,6 +11,7 @@ Welcome to my GitHub! I'm a passionate developer, problem solver, and tech enthu
 ![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=flat-square&logo=mongodb)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Next.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 
 ---
 
