@@ -1,112 +1,76 @@
-<!-- Banner / Header -->
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://github.com/mukesh/mukesh/blob/main/assets/banner.png" alt="Mukesh Thakur | Full-Stack Developer" />
+</p>
+
 <h1 align="center">👋 Hi, I'm Mukesh Thakur 👨‍💻</h1>
-<h3 align="center">Full-Stack Developer | MERN & Next.js Enthusiast | Problem Solver</h3>
-
-<p align="center">
-  Welcome to my GitHub! I’m passionate about building <b>scalable web apps</b>, exploring new technologies, and solving real-world problems 🚀
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Problem+Solver;Open+Source+Enthusiast;Tech+Explorer" alt="Typing Animation" />
+</h3>
 
 ---
 
-## 🔧 Tech Stack  
+## 🔧 Tech Stack
 
-<p align="center">
-  <!-- Frontend -->
-  <b>Frontend:</b><br/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css" />
-  <br/><br/>
-  
-  <!-- Backend -->
-  <b>Backend:</b><br/>
-  <img src="https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/-Express-grey?style=flat-square&logo=express" />
-  <br/><br/>
-  
-  <!-- Database -->
-  <b>Database:</b><br/>
-  <img src="https://img.shields.io/badge/-MongoDB-darkgreen?style=flat-square&logo=mongodb" />
-  <br/><br/>
-  
-  <!-- Tools -->
-  <b>Other Tools:</b><br/>
-  <img src="https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Notable Projects
 
-<p align="center">
-  <a href="https://github.com/mukesh/movie-booking-app">
-    🎬 <b>Movie Booking App</b>
-  </a><br/>
-  A full-stack movie ticket booking platform.<br/>
-  <i>Tech Used:</i> Next.js, Node.js, MongoDB, Tailwind CSS<br/>
-  <i>Features:</i> Booking system, Admin dashboard, Search & filter
-</p>
+### 🚀 [Project Name](https://github.com/mukesh/project-name)
+Short project description.  
+**Tech Used:** React, Node.js, MongoDB  
+**Features:** Authentication, Responsive UI, REST APIs  
 
-<p align="center">
-  <a href="https://github.com/mukesh/blog-platform">
-    📝 <b>Blog Platform</b>
-  </a><br/>
-  A dynamic blogging app with authentication & role-based access.<br/>
-  <i>Tech Used:</i> Next.js, MongoDB, Redux Toolkit<br/>
-  <i>Features:</i> CRUD posts, Comments, Categories, JWT Auth
-</p>
-
-<p align="center">
-  <a href="https://github.com/mukesh/portfolio">
-    🚀 <b>Portfolio Website</b>
-  </a><br/>
-  Personal portfolio built with Next.js & Tailwind CSS.<br/>
-  <i>Tech Used:</i> Next.js, Tailwind CSS, Vercel<br/>
-  <i>Features:</i> Responsive design, Projects showcase, Contact form
-</p>
+### 🎬 [Movie Booking App](https://github.com/mukesh/movie-booking-app)
+A full-stack movie ticket booking platform.  
+**Tech Used:** React, Next.js, Express, MongoDB, Tailwind CSS  
+**Features:** Booking system, Admin dashboard, Search & filter  
 
 ---
 
-## 🏆 Achievements  
-
-- ✅ Built 10+ full-stack apps using **MERN + Next.js**  
+## 🏆 Achievements
+- ✅ Built **10+ full-stack web apps** using MERN & Next.js  
 - 🏅 Completed [Certification Name] from [Platform]  
-- 🌟 Open-source contributor  
+- 🌟 Active contributor to **open-source** projects  
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukesh&show_icons=true&theme=github_dark" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh&layout=compact&theme=github_dark" alt="Top languages" />
-  <img src="https://streak-stats.demolab.com?user=mukesh&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mukesh&show_icons=true&theme=github_dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh&layout=compact&theme=github_dark" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh&theme=github-dark&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mukesh&theme=darkhub&margin-w=10&margin-h=10&column=7" />
 </p>
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/mukesh-thakur">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://github.com/mukesh">
-    <img src="https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github" />
-  </a>
-  <a href="mailto:mukeshkthakur29@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square" />
-  </a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/mukesh"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:mukeshkthakur29@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge"/></a>
 </p>
 
 ---
 
-<p align="center">
-  ⚡ <i>"Code is like humor. When you have to explain it, it’s bad."</i> – Cory House <br/>
-  💡 <i>"Always learning, always building."</i>
-</p>
+> ⚡ *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
